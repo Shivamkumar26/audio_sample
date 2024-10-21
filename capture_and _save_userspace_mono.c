@@ -5,7 +5,7 @@
 #include <stdint.h>
 
 #define SAMPLE_RATE 44100  // Sample rate (44.1 kHz is standard)
-#define CHANNELS 2         // Stereo
+#define CHANNELS 1         // Mono
 #define BUFFER_FRAMES 128  // Number of frames in the buffer
 
 // WAV file header structure
